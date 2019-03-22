@@ -13,17 +13,19 @@ MC++ is freely available with the [Common Public License Version 1.0](http://www
 
 ## Install
 
+<!--broken link:
 Download [MC++ latest version](https://workspace.imperial.ac.uk/people/Public/chemicalengineering/b.chachuat/Codes/MC++_1.0_distrib_24-07-2013.tgz).
-Uncompress the archive, then follow the instructions in the INSTALL file. 
+Uncompress the archive, then follow the instructions in the INSTALL file.
+-->
 
 ## Project Manager
 
-The project manager is [Benoit Chachuat](http://www3.imperial.ac.uk/people/b.chachuat​).
+The project manager is Benoit Chachuat.
 
 ## MC++ Links
 
 * [​Mailing list](http://list.coin-or.org/mailman/listinfo/MCpp): User questions and bug reports
-* [Download source code tarball](https://workspace.imperial.ac.uk/people/Public/chemicalengineering/b.chachuat/Codes/MC++_1.0_distrib_24-07-2013.tgz). Doxygen developer documentation is available in the tarball.
+<!--broken link: * [Download source code tarball](https://workspace.imperial.ac.uk/people/Public/chemicalengineering/b.chachuat/Codes/MC++_1.0_distrib_24-07-2013.tgz). Doxygen developer documentation is available in the tarball. -->
 
 ## COIN-OR Links
 
