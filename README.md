@@ -11,9 +11,10 @@ In particular, MC++ can be quite useful for the fast prototyping and testing of 
 
 MC++ is freely available with the [Common Public License Version 1.0](http://www.opensource.org/licenses/cpl1.0.php)
 
+<!--broken link:
+
 ## Install
 
-<!--broken link:
 Download [MC++ latest version](https://workspace.imperial.ac.uk/people/Public/chemicalengineering/b.chachuat/Codes/MC++_1.0_distrib_24-07-2013.tgz).
 Uncompress the archive, then follow the instructions in the INSTALL file.
 -->
@@ -22,12 +23,9 @@ Uncompress the archive, then follow the instructions in the INSTALL file.
 
 The project manager is Benoit Chachuat.
 
-## MC++ Links
+## Links
 
 * [​Mailing list](http://list.coin-or.org/mailman/listinfo/MCpp): User questions and bug reports
 <!--broken link: * [Download source code tarball](https://workspace.imperial.ac.uk/people/Public/chemicalengineering/b.chachuat/Codes/MC++_1.0_distrib_24-07-2013.tgz). Doxygen developer documentation is available in the tarball. -->
-
-## COIN-OR Links
-
 *  [​COIN-OR Home Page](http://www.coin-or.org/index.html): COmputational INfrastructure for Operations Research
 *  [Installing Projects](https://projects.coin-or.org/BuildTools/wiki): General help for installing COIN-OR projects
