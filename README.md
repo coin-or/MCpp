@@ -9,7 +9,7 @@ In particular, MC++ can be quite useful for the fast prototyping and testing of 
 
 ## License
 
-MC++ is freely available with the [Common Public License Version 1.0](http://www.opensource.org/licenses/cpl1.0.php)
+MC++ is freely available with the [Eclipse Public License Version 1.0](https://opensource.org/licenses/EPL-1.0)
 
 <!--broken link:
 
